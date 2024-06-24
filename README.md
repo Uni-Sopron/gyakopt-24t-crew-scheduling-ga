@@ -75,4 +75,4 @@ Ez a program egy egyszerű, de hatékony példája annak, hogyan használhatók 
 
 ## Diagramm
 
-![Eredmény Diagram](eredmény diagram.png)
+![Eredmény Diagram](https://github.com/Uni-Sopron/gyakopt-24t-crew-scheduling-ga/blob/b8b820b3383fce9740cea1e50ec85a059addd905/eredm%C3%A9ny%20diagram.png)
