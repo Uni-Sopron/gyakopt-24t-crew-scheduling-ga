@@ -1,0 +1,7 @@
+{
+  "num_nurses": 15,
+  "population_size": 50,
+  "num_generations": 200,
+  "mutation_rate": 0.05,
+  "crossover_rate": 0.8
+}
